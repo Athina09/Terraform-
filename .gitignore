@@ -1,0 +1,15 @@
+# Local Terraform directories and state (never commit secrets via state)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.tfstate.lock.info
+
+# Optional: uncomment if you use local var files with secrets
+# *.tfvars
+# !terraform.tfvars.example
