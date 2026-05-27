@@ -1,4 +1,4 @@
-# Terraform + Docker + Nginx — Beginner IaC Demo
+# Terraform + Docker + Nginx
 
 A **cloud-free** Infrastructure as Code demo: Terraform provisions a local Nginx container via the Docker provider. Ideal for workshops, interviews, and first-time Terraform learners.
 
